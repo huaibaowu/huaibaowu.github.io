@@ -1,4 +1,4 @@
-## Welcom
+## Welcome
 
 Hey, I am *Huaibao Wu*, but you can also call me *Leo Wu*. Welcome to my blog. 
 
