@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Welcom
 
-![Image of fast.ai logo](images/logo.png)
+Hey, I am *Huaibao Wu*, but you can also call me *Leo Wu*. Welcome to my blog. 
 
-## This is a title
+As a life-long learner, I learnt that the best way to learn is to [learn in public](https://www.swyx.io/learn-in-public). That's also the exact reason why this blog exsits.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+This is definitely a promising journey to be a better myself. Let's advance togother!
