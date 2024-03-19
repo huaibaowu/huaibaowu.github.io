@@ -1,4 +1,8 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hey, I am Huaibao Wu, but you can also call me Leo Wu. Welcome to my blog.
+
+As a life-long learner, I learnt that the best way to learn is to learn in public. That’s also the exact reason why this blog exsits.
+
+This is definitely a promising journey to be a better myself. Let’s advance togother!
 
